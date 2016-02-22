@@ -1,4 +1,7 @@
-My Awesome Book
+Support.Webmecanik.com
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+Welcome on Webmecanik support ! [Access on English guide](http://en.support.webmecanik.com).
+
+Bienvenue sur le support Webmecanik : [accéder à la base de connaissance en Français](http://fr.support.webmecanik.com).
