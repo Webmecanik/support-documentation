@@ -1,4 +1,6 @@
 # Summary
 
-* [English guide](http://en.support.webmecanik.com)
-* [Guide en Française](http://en.support.webmecanik.com)
+* [Introduction](README.md)
+* [English guide](http:/en.support.webmecanik.com)
+* Automation Support - Français
+
