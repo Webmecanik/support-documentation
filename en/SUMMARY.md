@@ -2,7 +2,7 @@
 * [Introduction](README.md)
 
 ## Webmecanik Automation
-* [Full Documentation](https://mautic.org/docs/fr)
+* [Full Documentation](https://mautic.org/docs/en)
 
 ## myWebmecanik
 * [mywebmecanik](mywebmecanik/README.md)
