@@ -2,9 +2,9 @@
 * [Introduction](README.md)
 
 ## Webmecanik Automation
-* [Français](https://mautic.org/docs/fr)
-* [Anglais](https://mautic.org/docs/en)
+* [Documentation complète](https://mautic.org/docs/fr)
 
+## myWebmecanik
 * [mywebmecanik](mywebmecanik/README.md)
   * [Créer un compte agence](mywebmecanik/new-account.md)
     * [Inviter un collaborateur](mywebmecanik/invite-collaborator.md)
