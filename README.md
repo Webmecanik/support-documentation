@@ -1,6 +1,6 @@
 support.webmecanik.com
 =======
-## Webmecanikk Automation ##
+## Webmecanik Automation ##
 
 Webmecanik Automation est un logiciel saas qui analyse le comportement de vos visiteurs, prospects et clients. Il active des actions automatiques et adaptées pour nourrir la relation avec les bons messages sur les médias adéquats (SMS, email, notification, etc.).
 Vous contactez les bonnes personnes au bon moment !
