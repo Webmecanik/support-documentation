@@ -5,8 +5,7 @@
 * [Français](https://mautic.org/docs/fr)
 * [Anglais](https://mautic.org/docs/en)
 
-## myWebmecanik
-* [myWebmecanik Guide - Français](myWebmecanik/README.md)
+* [myWebmecanik](myWebmecanik/README.md)
   * [Créer un compte agence](myWebmecanik/new-account.md)
     * [Inviter un collaborateur](myWebmecanik/invite-collaborator.md)
     * [Paramétrer ses accès utilisateur](myWebmecanik/user-settings.md)
