@@ -16,3 +16,4 @@ Pour en savoir plus sur nos services, [rendez vous ici](http://www.webmecanik.co
 
 myWebmecanik est la plateforme qui rend autonome les agences et conseils des entreprises pour déployer des comptes de marketing automation, 24/7, sans surcout et frais de setup.
 Propriétaire d'un compte agence, vous pourrez également paramétrer les comptes de vos clients, gérer vos factures, gérer les mises à jour, et encore bien d'autres fonctionnalités à venir afin de vous aider à piloter au mieux, la stratégie de vos clients.
+Pour en savoir plus, consultez [la documentation myWebmecanik](/mywebmecanik/README.md)
