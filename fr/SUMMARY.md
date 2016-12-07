@@ -12,6 +12,5 @@
   * [Ajouer un client](mywebmecanik/new-customer.md)
     * [Déployer une instance](mywebmecanik/new-instance.md)
     * [Paramétrer une instance](mywebmecanik/instance-settings.md)
-  * [Factures](mywebmecanik/billing.md)
-    * [Modes de facturation](mywebmecanik/billing-mode.md)
+  * [Facturation](mywebmecanik/billing.md)
   * [Gestion des mises à jour](mywebmecanik/release-management.md)
