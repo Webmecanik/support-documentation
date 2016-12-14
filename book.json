@@ -6,15 +6,14 @@
 		"customheader"
     "language-picker"
     "header"
-	]
-}
-
-"pluginsConfig": {
-       "language-picker": {
-           "grid-columns": 2
-       }
-   }
-"pluginsConfig": {
-"layout": {
-  "headerPath" : "layouts/header.html"
-}
+	],
+  "pluginsConfig": {
+    "layouts": {
+      "headerPath" : "layouts/header.html"
+      }
+    }
+  {
+  "language-picker": {
+  "grid-columns": 2
+    }
+  }
