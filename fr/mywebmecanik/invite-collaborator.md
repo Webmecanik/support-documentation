@@ -10,6 +10,6 @@ myWebmecanik est l'interface d'administration pour votre agence. Il est possible
 2. Cliquez sur le client qui porte le nom de votre agence (première ligne)
 3. En bas de la page, vous avez un champ dans lequel vous pouvez saisir une adresse email d'un collaborateur à inviter.
 
-[image](assets/invite-collaborator.png)
+![image](assets/invite-collaborator.png)
 
 **NOTE** : Tous les utilisateurs recevront une copie des factures mensuelles. Si vous souhaitez qu'une adresse email soit en copie des emails de facture, invitez le à créer un accès à myWebmecanik.

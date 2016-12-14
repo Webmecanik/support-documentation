@@ -10,6 +10,6 @@ myWebmecanik vous permet justement de gérer et piloter du multicompte pour vos 
 2. Cliquez sur le bouton **Ajouter un client**.
 3. Renseignez les informations nécessaires à l'ajout d'un client
 
-[image](assets/new-customer.png)
+![image](assets/new-customer.png)
 
 Consultez [cette page pour déployer un compte Automation](new-instance.md).
