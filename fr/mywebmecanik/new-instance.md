@@ -14,7 +14,7 @@ Avec myWebmecanik, vous êtes 100% autonome pour le déploiement de compte Webme
   * **Adresse email d'envoi par défaut** : Le nom de domaine utilisé sur cette adresse devra être configurable (DNS et accès FTP). En effet, vous devrez configurer ce nom de domaine afin d'obtenir l'autorisation de l'utiliser lors du routage des emails. NOTE : Vous pourrez configurer d'autres noms de domaine sur le même compte Automation en faisant la demande au support.
   * **Localisation physique du serveur** : Vous pouvez choisir la localisation de l'hébergement de vos données, en toute tansparence.
 
-[image](new-instance.png)
+[image](assets/new-instance.png)
 
 ### Déploiement du premier compte Automation ##
 

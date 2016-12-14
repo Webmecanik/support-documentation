@@ -3,7 +3,7 @@
 Chaque compte doit être propre à son utilisateur. Nous vous recommandons de ne pas partager vos identifiant, mais d'inviter vos collaborateurs à rejoindre myWebmecanik. [Plus d'infomations ici](invite-collaborator.md).
 
 Dans le menu en haut à droite, vous pouvez choisir les informations à éditer.
-[image](settings.png)
+[image](assets/settings.png)
 
 ## Editer mes infos ##
 

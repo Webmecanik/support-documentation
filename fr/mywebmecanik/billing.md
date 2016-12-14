@@ -10,11 +10,11 @@ myWebmecanik vous demmande vos coordonnés de carte bancaires (CB) pour émettre
 
 **NOTE** : Vous avez la possibilité de payer votre pack agence comptant lors du début de votre abonnement afin de bénéficier d'une remise de 2 mois sur le montant annuel du pack agence. Vous continuerez à recevoir les facures mensuelles pour les suppléments (contacts et instances).
 
-[image](billing-mode.png)
+[image](assets/billing-mode.png)
 
 ## Consulter les factures ##
 
-[image](bills.png)
+[image](assets/bills.png)
 
 ## Recevoir les factures ##
 

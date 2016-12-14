@@ -5,7 +5,7 @@
 Le paramétrage du nom de domaine d'envoi des emails est une étape importante. Sans ce paramétrage, aucun email ne partira de la plateforme.
 Vous retrouvez toutes ces informations dans les détails techniques de l'instance.
 
-[image](instance-details.png)
+[image](assets/instance-details.png)
 
 ## Fichier TXT : Autorisation d'utilisation du nom de domaine ##
 
