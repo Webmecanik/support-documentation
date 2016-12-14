@@ -3,7 +3,7 @@
 Every account must be unique to its user. We reccommend that you do not share your login details, but invite your collaborators to join myWebmecanik. [More information](invite-collaborator.md).
 
 In the menu at the top right, you can choose information to edit.
-[image](settings.png)
+![image](settings.png)
 
 ## Edit My Info ##
 

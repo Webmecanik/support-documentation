@@ -10,11 +10,11 @@ myWebmecanik asks for your bank details to issue and draw invoice amounts each m
 
 **NOTE** : You have the option of paying the total amount of your agency pack (12 months) at the beginning of your subscription in order to benefit from a discount of 2 months. You will continue to receive monthly invoices for any extra supplements (contacts and instances).
 
-[image](billing-mode.png)
+![image](billing-mode.png)
 
 ## View Invoices ##
 
-[image](bills.png)
+![image](bills.png)
 
 ## Receive Invoices ##
 

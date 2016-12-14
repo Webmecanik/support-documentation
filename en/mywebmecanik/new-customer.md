@@ -10,6 +10,6 @@ myWebmecanik allows you to manage multiple accounts for your clients and their i
 2. Click on the **Add A Client** button.
 3. Enter the necessary information and add your new client
 
-[image](new-customer.png)
+![image](new-customer.png)
 
 Consult [this page to find how to deploy an Automation account](new-instance.md).
