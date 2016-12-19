@@ -3,8 +3,8 @@
 	"title": "Webmecanik Documentation",
 	"description": "Marketing automation documentation for Webmecanik Automation & myWebmecanik.",
 	"plugins": [
-		"customheader"
-		"language-picker"
+		"customheader",
+		"language-picker",
 		"header"
 	],
 	"pluginsConfig": {
