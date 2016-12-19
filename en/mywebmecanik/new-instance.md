@@ -14,7 +14,7 @@ With myWebmecanik, you are 100% automated in the deployment of Webmecanik Automa
   * **Default sending email address** : The domain name used for this address must be configurable (DNS and FTP access). You will need to configure the domain name of this email for the software to send emails on your behalf. NOTE : You can configure other domain names on the same Automation account by contacting support.
   * **Physical location of the server** : You can choose where all of your details and data will be hosted, with complete transparency.
 
-![image](new-instance.png)
+![image](assets/new-instance.png)
 
 ### Deploying Your First Automation Account ##
 

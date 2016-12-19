@@ -5,7 +5,7 @@
 Setting up the domain name for sending emails is an important step. Without this established, no email will be sent from the platform.
 You can find all of this information in the technical details section of the instance.
 
-![image](instance-details.png)
+![image](./assets/instance-details.png)
 
 ## TXT File : Domain Name Use Authorisation ##
 
