@@ -4,11 +4,11 @@
 	"description": "Marketing automation documentation for Webmecanik Automation & myWebmecanik.",
 	"plugins": [
 		"language-picker",
-		"header"
+		"layout"
 	],
 	"pluginsConfig": {
-		"layouts": {
-			"headerPath" : "./layouts/header.html"
+		"layout": {
+			"headerPath" : "layouts/header.html"
 		}
 	}
 }
