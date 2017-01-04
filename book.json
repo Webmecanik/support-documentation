@@ -4,5 +4,5 @@
 	"description": "Marketing automation documentation for Webmecanik Automation & myWebmecanik.",
 	"plugins": [
 		"language-picker"
-	],
+	]
 }
