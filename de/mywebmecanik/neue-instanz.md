@@ -15,7 +15,7 @@ Mit myWebmecanik sind Sie autonom und können 100% automatisiert Automation Acco
   * **Standard Mailabsender** : Der Domainname dieser Adresse muss konfigurierbar sein (DNS und FTP Zugang). Sie konfigurieren den Domainnamen dieser E-Mailadresse damit die Software in Ihrem Namen senden darf.
    ANMERKUNG : Sie können andere Domainnamen auf denselben Automation Account konfigurieren. Hierfür kontaktieren Sie bitte den Support.
   * **Standort des Servers** : Sie können wählen, wo Ihre Daten und Details gehostet werden. Dies bringt eine komplette Transparenz.
-[image](assets/new-instance.png)
+![image](assets/new-instance.png)
 
 ### Ihren ersten Automation Account erstellen ##
 

@@ -3,7 +3,7 @@
 Jeder Account muss für seinen Nutzer eindeutig sein.Wir empfehlen, seine Login Details nicht weiterzugeben, sondern andere Mitarbeiter einfach zu myWebmecanik einzuladen.  [Mehr Informationen](mitarbeiter-einladen.md).
 
 Im Menü oben rechts können Sie Informationen zum bearbeiten auswählen.
-[image](assets/settings.png)
+![image](assets/settings.png)
 
 ## Meine Info bearbeiten ##
 
