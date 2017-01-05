@@ -13,11 +13,11 @@ myWebmecanik wird Ihre Bankdetails abfragen um jeden Monat Abrechnungen zu erste
 **ANMERKUNG** :
 Sie haben die Möglichkeit den gesamten Betrag Ihres Agenturenpakets (12 Monate) am Anfang Ihres Abonnements zu bezahlen um einen Discount von 2 Monaten zu erhalten. Für etwaige zusätzliche Leistungen (Kontakte und Instanzen) werden Sie weiterhin monatliche Abrechnungen erhalten.
 
-[image](billing-mode.png)
+[image](assets/billing-mode.png)
 
 ## Rechnungen ansehen ##
 
-[image](bills.png)
+[image](assets/bills.png)
 
 ## Rechnungen erhalten ##
 

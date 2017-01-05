@@ -10,6 +10,6 @@ Dafür geben Sie nicht Ihre Login Details weiter, sondern laden die Mitarbeiter 
 2. Klicken Sie auf den Kunden, der den Namen Ihrer Agentur hat (erste Zeile).
 3. Ganz unten auf der Seite gibt es ein Feld, in das Sie die E-Mail Adressen der Mitarbeiter eintragen können, welche Sie einladen möchten.
 
-[image](invite-collaborator.png)
+[image](assets/invite-collaborator.png)
 
-**ANMERKUNG** : Alle Benutzer erhalten eine Kopie der monatlichen Rechnungen. Wenn Sie einer bestimmten E-Mailadresse eine Rechnung zusenden möchten, laden Sie sie zur Erstellung eines Accounts bei myWebmecanik ein. 
+**ANMERKUNG** : Alle Benutzer erhalten eine Kopie der monatlichen Rechnungen. Wenn Sie einer bestimmten E-Mailadresse eine Rechnung zusenden möchten, laden Sie sie zur Erstellung eines Accounts bei myWebmecanik ein.

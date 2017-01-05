@@ -6,7 +6,7 @@ Den Domain Namen aufzusetzen, um Mails zu senden ist ein wichtiger Schritt.
 Ohne diese Einstellung können keine Mails von der Plattform versendet werden.
 Sie finden all diese Informationen im technische Details- Bereich der Instanz.
 
-[image](instance-details.png)
+[image](assets/instance-details.png)
 
 ## TXT Datei : Domain Name: Authorisierung der Benutzung ##
 
