@@ -20,4 +20,8 @@ Cliquez dans le menu facturation à gauche.
 
 ## Recevoir les factures ##
 
-Tous les utilisateurs recevront une copie des factures mensuelles. Si vous souhaitez qu'une adresse email soit en copie des emails de facture, invitez le à créer un accès à myWebmecanik.
+Par défaut, tous les utilisateurs recevront une copie des factures mensuelles. Si vous souhaitez qu'une adresse email soit en copie des emails de facture, invitez le à créer un accès à myWebmecanik.
+Vous pouvez également **choisir spécifiquement un (ou des) contact** de facturation. Pour ce faire :
+1. Cliquez sur le nom de votre entreprise depuis le Tableau de bord
+2. Editez le contact de votre entreprise dont vous souhaitez changer le statut
+3. Activer la case à cocher "Je suis un contact de facturation" > Enregistrez
