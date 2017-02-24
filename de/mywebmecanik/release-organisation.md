@@ -12,7 +12,7 @@ Wenn eine neue Version von Webmecanik Automation stabilisiert wurde und bereit i
 
 Eventuell möchten Sie die Update Informationen für sich behalten und selber an Ihre Kunden kommunizieren. In diesem Fall und standardmäßig:
 
-* MyWebmecanik Benutzer sind die einzigen, die unsere Webmecanik Automation Update Newsletter erhalten
+* **MyWebmecanik Benutzer sind die einzigen, die unsere Webmecanik Automation Update Newsletter erhalten**
 * Andernfalls möchten Sie Ihre Kunden in Echtzeit informieren.Indem Sie auf den Namen eines Kunden von Ihrem myWebmecanik Dashboard klicken, können Sie ein Häkchen in einer Checkbox setzen und so werden alle Nutzer in diesem Webmecanik Automation Kundenaccount die Update Newsletter erhalten. 
 
 
