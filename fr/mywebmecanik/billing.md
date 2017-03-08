@@ -18,10 +18,15 @@ Cliquez dans le menu facturation à gauche.
 
 ![image](assets/bills.png)
 
-## Recevoir les factures ##
+### Recevoir les factures ###
 
 Par défaut, tous les utilisateurs recevront une copie des factures mensuelles. Si vous souhaitez qu'une adresse email soit en copie des emails de facture, invitez le à créer un accès à myWebmecanik.
 Vous pouvez également **choisir spécifiquement un (ou des) contact** de facturation. Pour ce faire :
 1. Cliquez sur le nom de votre entreprise depuis le Tableau de bord
 2. Editez le contact de votre entreprise dont vous souhaitez changer le statut
 3. Activer la case à cocher "Je suis un contact de facturation" > Enregistrez
+
+### Historique et statistiques des comptes
+Depuis le menu facturation, vous pouvez observer 2 graphiques vous apportant de la visibilité sur votre historique d'utilisation :
+* **Statistiques de l'agence :** Observez sur les 12 derniers mois, votre montant de facturation, l'évolution du nombre d'instances client et le nombre cumulé de contacts.
+* **Stastiques par client :** Pour chaque instance client, constatez l'historique et l'évolution du nombre de contacts.
