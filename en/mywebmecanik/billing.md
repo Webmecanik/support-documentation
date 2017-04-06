@@ -1,30 +1,31 @@
 # Billing
 
-## Introduction
+## Introduction ##
 
-Automatically generate monthly invoices according to your level of myWebmecanik use \(number of contacts and number of instances\).
+myWebmecanik will automatically issue an monthly invoice according to the terms of your contract (i.e. based on number of valid email-records and instances).
 
-## Billing Method
+## Billing method ##
 
-myWebmecanik asks for your bank details to issue and draw invoice amounts each month.
+myWebmecanik requests your credit card details (CB) to issue the invoices and proceed to payment.
 
-**NOTE** : You have the option of paying the total amount of your agency pack \(12 months\) at the beginning of your subscription in order to benefit from a discount of 2 months. You will continue to receive monthly invoices for any extra supplements \(contacts and instances\).
+**NOTE** : In case of annual upfront payment, you’ll benefit from 2 months free. Invoices will be issued for supplementary use, based on the term of your contract (i.e. based on number of valid email-records and instances).
 
-![image](./assets/billing-mode.png)
+![image](assets/billing-mode.png)
 
-## View Invoices
+## View bills ##
 
-![image](./assets/bills.png)
+Click on the category bills in the menu.
 
-## Receive Invoices
+![image](assets/bills.png)
 
-By default, all users will receive a copy of the monthly invoices. If you wish for an additional email address to be copied into these monthly invoice emails, invite them to create an account on myWebmecanik. You can also specifically choose one \(or several\) contacts for billing. For this:
+### Receive invoices ###
 
-1. Click on the name of your business on the myWebmecanik dashboard
+By default, all users will receive a copy of the monthly invoices. In case you wish to cc’ an email-address, please invite the user to create an access to myWebmecanik. You can also **set one or more contacts** to receive the billing details:
+1. Click on your company’s name from your dashboard
+2. Edit the contact
+3. Tick the box « I’m the contact for billing » and save changes
 
-2. Edit the contact that you wish to include by clicking on the pencil icon next to their name
-
-3. Click on the checkbox “I am a billing contact” and then click “Save Changes”
-
-
-
+### History and accounts’ key figures
+From the bills view, you’ll find 2 graphs to illustrate your using history:
+* **Agency figures:** Over the 12 last months, your billing details, the number of clients’ instances, and the number of email records.
+* **Clients’ figures:** For a single client instance, see the evolution of the number of email records.

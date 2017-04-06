@@ -10,3 +10,8 @@ Mit Ihrem Dashboard im myWebmecanik Portal haben Sie die Möglichkeit Kunden hin
 
 ### Prerequisites
 Um zu diesem Punkt zu gelangen, müssen Sie einen Account bei myWebmecanik erstellt haben. Um dies zu tun, [folgen Sie der Anleitung](neuer-account.md) !
+
+# Neuigkeiten #
+Entdecken Sie die neuesten Funktionen von myWebmecanik in unseren Video Tutorials!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wh7dLCeIaXU?showinfo=0" frameborder="0" allowfullscreen></iframe>

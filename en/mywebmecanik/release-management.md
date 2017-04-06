@@ -1,22 +1,14 @@
-# Managing Webmecanik Automation Update Releases
+# Webmecanik’s update management #
 
-## Introduction
+## Introduction ##
+You are now able to chose when to update your Webmecanik Automation instance, and also chose who shall receive the newsletter related to this topic.
 
-You now have the ability to choose the update schedule for your instances of Webmecanik Automation, as well as determine who will receive the update newsletters from Webmecanik.
+## Select the update time ##
+When a new version of Webmecanik is about to be released, you’ll receive an email explaining the new expected features
 
-## Choose The Update Activation Date
+In the left column, a button will appear to manage the update. For each instance, you’ll be able to chose on which week you’d like to make the update. By default, all instances are set to be updated at the same time.
 
-When a new version of Webmecanik Automation is due to be released you will receive an email summary of the new features that will come with it.
-
-On the myWebmecanik menu to the left, you should have an “Update Management” option that will display all of your deployed instances. For each one, you have a dropdown box to the right which will display the available update periods. Simply click the time period that you desire and the changes will be automatically saved.
-
-## Choose the email addresses that will receive email updates
-
-It may be the case that you wish to delay or stop the sending of update information to your clients. To this end, it is important to note that by default:
-
-•    **myWebmecanik users are the sole recipients of the update newsletters**
-
-•    Otherwise, if you want your clients to receive update newsletters in real time, simply click on the client’s name when you are on the myWebmecanik dashboard, scroll to the bottom of the “Contacts” section, then tick the “I agree to receive the Update Information Newsletters” option.
-
-
-
+## Select update email subscribers ##
+Sometimes, you’d like to update yourself some clients about the new available features. In this case:
+* **Webmecanik users are the only one who receive the newsletter** about Webmecanik Automation updates.
+* In some other cases, you would expect your **clients to be updated right away**.On the dashboard, you can tick a box to select all subscribers of an account that will receive the update emails.

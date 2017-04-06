@@ -1,11 +1,15 @@
-# myWebmecanik
-my.webmecanik.com is the interface for managing multiple Webmecanik Automation accounts for agencies and Webmecanik partners.
-In just a few clicks you can add, manage, and deploy Automation for your clients!
+# myWebmecanik #
+Patners and agencies can benefit from my.webmecanik.com, a platform that allows you to create, deploy, and manage Webmecanik automation instances for your clients!
 
 ## Dashboard ##
-From the dashboard on your myWebmecanik portal you have the ability to add your clients, open their Webmecanik Automation account, setup the technical details for their account, see the number of contacts in each instance and in total. Here you can also generate your billing.
+From the myWebmecanik dashboard, you’ll be able to add new clients, open their Webmecanik Automation instance, and manage the technical setup. Other data such as the number of email records per client, and the total amount of contacts are also accessible. And for more convenience, you’ll also be able to manage the billing from the platform.
 
-![dashboard](./assets/dashboard.png)
+![dashboard](assets/dashboard.png)
 
-### Prerequisites
-To get to this point, you must have created an account on myWebmecanik. To do so, [follow the instructions here](new-account.md) !
+### Prerequisite ###
+To reach this, you’ll simply have to create your myWebmecanik account, [follow this instructions](new-account.md) !
+
+# News #
+Explore the last features of myWebmecanik through our video tutorials!
+
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wh7dLCeIaXU?showinfo=0" frameborder="0" allowfullscreen></iframe>
